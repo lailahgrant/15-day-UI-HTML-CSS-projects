@@ -1,4 +1,5 @@
-# 15 UI Design projects in HTML5 & CSS3 :art: ✔️
+# 15-day-UI-HTML-CSS-projects
+The 15 day UI Designs that I am doing in HTML and CSS, this initiative is by @hey_Ololade on Twitter.
 
 ### Day 1
 - 404 pages
